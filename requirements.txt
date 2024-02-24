@@ -1,5 +1,7 @@
 # Natural Language Processing
-langchain==0.0.267
+langchain==0.1.19
+langchain-core==0.1.26
+langchain-community==0.0.24
 chromadb==0.4.6
 pdfminer.six==20221105
 InstructorEmbedding
@@ -15,6 +17,7 @@ auto-gptq==0.6.0; sys_platform != 'darwin'
 docx2txt
 unstructured
 unstructured[pdf]
+tiktoken
 
 # Utilities
 urllib3==1.26.6
@@ -24,6 +27,8 @@ bitsandbytes-windows ; sys_platform == 'win32'
 click
 flask
 requests
+pymongo
+cchardet
 
 # Streamlit related
 streamlit
