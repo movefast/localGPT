@@ -1,0 +1,1239 @@
+
+
+2024-02-23 16:37:01,880 - INFO - ingest_open_web_math_worker.py:188 - === Batch 4353 begins ===
+2024-02-23 16:37:09,726 - INFO - ingest_open_web_math_worker.py:196 - Split into 12240 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 519688.98it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4258.65it/s]
+2024-02-23 16:42:22,037 - INFO - ingest_open_web_math_worker.py:188 - === Batch 5529 begins ===
+2024-02-23 16:42:30,256 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1023 documents from open_web_math dataset
+2024-02-23 16:42:30,256 - INFO - ingest_open_web_math_worker.py:196 - Split into 12664 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 216715.30it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4039.41it/s]
+2024-02-23 16:47:49,209 - INFO - ingest_open_web_math_worker.py:188 - === Batch 2567 begins ===
+2024-02-23 16:47:55,694 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 16:47:55,694 - INFO - ingest_open_web_math_worker.py:196 - Split into 10228 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 621989.96it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3865.51it/s]
+2024-02-23 16:52:29,610 - INFO - ingest_open_web_math_worker.py:188 - === Batch 1257 begins ===
+2024-02-23 16:52:37,671 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 16:52:37,671 - INFO - ingest_open_web_math_worker.py:196 - Split into 13175 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 627756.76it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4013.23it/s]
+2024-02-23 16:58:05,896 - INFO - ingest_open_web_math_worker.py:188 - === Batch 5366 begins ===
+2024-02-23 16:58:12,205 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1023 documents from open_web_math dataset
+2024-02-23 16:58:12,205 - INFO - ingest_open_web_math_worker.py:196 - Split into 10585 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 666605.28it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4026.20it/s]
+2024-02-23 17:02:49,472 - INFO - ingest_open_web_math_worker.py:188 - === Batch 734 begins ===
+2024-02-23 17:02:56,050 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 17:02:56,050 - INFO - ingest_open_web_math_worker.py:196 - Split into 11448 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 649255.28it/s]
+Loading dataset shards: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 716.99it/s]
+2024-02-23 17:07:52,537 - INFO - ingest_open_web_math_worker.py:188 - === Batch 5746 begins ===
+2024-02-23 17:07:59,545 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1023 documents from open_web_math dataset
+2024-02-23 17:07:59,546 - INFO - ingest_open_web_math_worker.py:196 - Split into 11613 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 519688.98it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4778.35it/s]
+2024-02-23 17:12:55,821 - INFO - ingest_open_web_math_worker.py:188 - === Batch 2803 begins ===
+2024-02-23 17:13:03,075 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 17:13:03,075 - INFO - ingest_open_web_math_worker.py:196 - Split into 12758 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 519119.77it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3909.60it/s]
+2024-02-23 17:18:20,681 - INFO - ingest_open_web_math_worker.py:188 - === Batch 4979 begins ===
+2024-02-23 17:18:28,016 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 17:18:28,016 - INFO - ingest_open_web_math_worker.py:196 - Split into 12323 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 324405.44it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4395.86it/s]
+2024-02-23 17:23:34,967 - INFO - ingest_open_web_math_worker.py:188 - === Batch 3314 begins ===
+2024-02-23 17:23:42,712 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 17:23:42,712 - INFO - ingest_open_web_math_worker.py:196 - Split into 11919 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 435621.65it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3840.59it/s]
+2024-02-23 17:28:46,659 - INFO - ingest_open_web_math_worker.py:188 - === Batch 590 begins ===
+2024-02-23 17:28:53,803 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 17:28:53,803 - INFO - ingest_open_web_math_worker.py:196 - Split into 11825 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 415023.08it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3693.71it/s]
+2024-02-23 17:33:58,912 - INFO - ingest_open_web_math_worker.py:188 - === Batch 3906 begins ===
+2024-02-23 17:34:06,044 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 17:34:06,044 - INFO - ingest_open_web_math_worker.py:196 - Split into 11406 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 637038.11it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4313.50it/s]
+2024-02-23 17:38:59,466 - INFO - ingest_open_web_math_worker.py:188 - === Batch 5565 begins ===
+2024-02-23 17:39:06,324 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1023 documents from open_web_math dataset
+2024-02-23 17:39:06,324 - INFO - ingest_open_web_math_worker.py:196 - Split into 11895 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 534939.45it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4444.10it/s]
+2024-02-23 17:44:11,626 - INFO - ingest_open_web_math_worker.py:188 - === Batch 1462 begins ===
+2024-02-23 17:44:19,159 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 17:44:19,159 - INFO - ingest_open_web_math_worker.py:196 - Split into 11348 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 524288.00it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4538.61it/s]
+2024-02-23 17:49:15,464 - INFO - ingest_open_web_math_worker.py:188 - === Batch 1128 begins ===
+2024-02-23 17:49:22,625 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 17:49:22,625 - INFO - ingest_open_web_math_worker.py:196 - Split into 12349 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 576589.24it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3799.32it/s]
+2024-02-23 17:54:35,074 - INFO - ingest_open_web_math_worker.py:188 - === Batch 4258 begins ===
+2024-02-23 17:54:42,496 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 17:54:42,496 - INFO - ingest_open_web_math_worker.py:196 - Split into 12518 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 407879.82it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4448.48it/s]
+2024-02-23 17:59:53,443 - INFO - ingest_open_web_math_worker.py:188 - === Batch 2202 begins ===
+2024-02-23 18:00:00,579 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 18:00:00,579 - INFO - ingest_open_web_math_worker.py:196 - Split into 12746 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 381914.87it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4367.31it/s]
+2024-02-23 18:05:22,643 - INFO - ingest_open_web_math_worker.py:188 - === Batch 4631 begins ===
+2024-02-23 18:05:30,827 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 18:05:30,827 - INFO - ingest_open_web_math_worker.py:196 - Split into 14180 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 522553.86it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4479.44it/s]
+2024-02-23 18:11:21,135 - INFO - ingest_open_web_math_worker.py:188 - === Batch 3618 begins ===
+2024-02-23 18:11:28,621 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 18:11:28,621 - INFO - ingest_open_web_math_worker.py:196 - Split into 12375 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 643088.67it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3813.93it/s]
+2024-02-23 18:16:42,155 - INFO - ingest_open_web_math_worker.py:188 - === Batch 2243 begins ===
+2024-02-23 18:16:49,050 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 18:16:49,050 - INFO - ingest_open_web_math_worker.py:196 - Split into 12113 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 406132.26it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3783.44it/s]
+2024-02-23 18:21:59,321 - INFO - ingest_open_web_math_worker.py:188 - === Batch 3074 begins ===
+2024-02-23 18:22:05,971 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 18:22:05,971 - INFO - ingest_open_web_math_worker.py:196 - Split into 10822 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 630261.11it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3919.40it/s]
+2024-02-23 18:26:51,882 - INFO - ingest_open_web_math_worker.py:188 - === Batch 5959 begins ===
+2024-02-23 18:26:59,257 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1023 documents from open_web_math dataset
+2024-02-23 18:26:59,258 - INFO - ingest_open_web_math_worker.py:196 - Split into 12242 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 636183.02it/s]
+Loading dataset shards: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 739.77it/s]
+2024-02-23 18:32:10,654 - INFO - ingest_open_web_math_worker.py:188 - === Batch 5565 begins ===
+2024-02-23 18:32:17,031 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1023 documents from open_web_math dataset
+2024-02-23 18:32:17,031 - INFO - ingest_open_web_math_worker.py:196 - Split into 11895 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 534336.36it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3778.45it/s]
+2024-02-23 18:37:21,099 - INFO - ingest_open_web_math_worker.py:188 - === Batch 5837 begins ===
+2024-02-23 18:37:28,111 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1023 documents from open_web_math dataset
+2024-02-23 18:37:28,111 - INFO - ingest_open_web_math_worker.py:196 - Split into 12053 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 413935.68it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4665.83it/s]
+2024-02-23 18:42:32,651 - INFO - ingest_open_web_math_worker.py:188 - === Batch 512 begins ===
+2024-02-23 18:42:40,232 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 18:42:40,232 - INFO - ingest_open_web_math_worker.py:196 - Split into 11796 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 602997.90it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3996.72it/s]
+2024-02-23 18:47:48,397 - INFO - ingest_open_web_math_worker.py:188 - === Batch 2597 begins ===
+2024-02-23 18:47:55,525 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 18:47:55,525 - INFO - ingest_open_web_math_worker.py:196 - Split into 11423 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 620361.72it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4047.86it/s]
+2024-02-23 18:52:52,965 - INFO - ingest_open_web_math_worker.py:188 - === Batch 4618 begins ===
+2024-02-23 18:52:59,478 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 18:52:59,478 - INFO - ingest_open_web_math_worker.py:196 - Split into 11304 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 530746.19it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4333.09it/s]
+2024-02-23 18:57:54,433 - INFO - ingest_open_web_math_worker.py:188 - === Batch 901 begins ===
+2024-02-23 18:58:02,942 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 18:58:02,942 - INFO - ingest_open_web_math_worker.py:196 - Split into 12352 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 466033.78it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3879.70it/s]
+2024-02-23 19:03:20,914 - INFO - ingest_open_web_math_worker.py:188 - === Batch 1910 begins ===
+2024-02-23 19:03:27,190 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 19:03:27,190 - INFO - ingest_open_web_math_worker.py:196 - Split into 11561 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 399625.93it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4168.96it/s]
+2024-02-23 19:08:23,088 - INFO - ingest_open_web_math_worker.py:188 - === Batch 1303 begins ===
+2024-02-23 19:08:29,189 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 19:08:29,189 - INFO - ingest_open_web_math_worker.py:196 - Split into 10723 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 405090.90it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4755.29it/s]
+2024-02-23 19:13:11,207 - INFO - ingest_open_web_math_worker.py:188 - === Batch 1603 begins ===
+2024-02-23 19:13:17,730 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 19:13:17,730 - INFO - ingest_open_web_math_worker.py:196 - Split into 11149 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 640481.56it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3855.90it/s]
+2024-02-23 19:18:07,342 - INFO - ingest_open_web_math_worker.py:188 - === Batch 3145 begins ===
+2024-02-23 19:18:13,939 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 19:18:13,939 - INFO - ingest_open_web_math_worker.py:196 - Split into 11263 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 392673.03it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4067.02it/s]
+2024-02-23 19:23:06,016 - INFO - ingest_open_web_math_worker.py:188 - === Batch 4278 begins ===
+2024-02-23 19:23:11,960 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 19:23:11,960 - INFO - ingest_open_web_math_worker.py:196 - Split into 10530 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 643962.43it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4282.58it/s]
+2024-02-23 19:27:52,881 - INFO - ingest_open_web_math_worker.py:188 - === Batch 455 begins ===
+2024-02-23 19:27:58,985 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 19:27:58,985 - INFO - ingest_open_web_math_worker.py:196 - Split into 11466 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 388170.64it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4220.97it/s]
+2024-02-23 19:32:56,006 - INFO - ingest_open_web_math_worker.py:188 - === Batch 889 begins ===
+2024-02-23 19:33:02,164 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 19:33:02,164 - INFO - ingest_open_web_math_worker.py:196 - Split into 11017 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 389446.47it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4443.44it/s]
+2024-02-23 19:37:51,583 - INFO - ingest_open_web_math_worker.py:188 - === Batch 3019 begins ===
+2024-02-23 19:37:59,110 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 19:37:59,110 - INFO - ingest_open_web_math_worker.py:196 - Split into 12183 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 400639.35it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4102.55it/s]
+2024-02-23 19:43:07,400 - INFO - ingest_open_web_math_worker.py:188 - === Batch 2704 begins ===
+2024-02-23 19:43:14,887 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 19:43:14,887 - INFO - ingest_open_web_math_worker.py:196 - Split into 12376 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 404744.96it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3903.73it/s]
+2024-02-23 19:48:29,312 - INFO - ingest_open_web_math_worker.py:188 - === Batch 490 begins ===
+2024-02-23 19:48:35,591 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 19:48:35,591 - INFO - ingest_open_web_math_worker.py:196 - Split into 11596 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 515730.52it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3772.63it/s]
+2024-02-23 19:53:33,828 - INFO - ingest_open_web_math_worker.py:188 - === Batch 2964 begins ===
+2024-02-23 19:53:39,930 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 19:53:39,930 - INFO - ingest_open_web_math_worker.py:196 - Split into 10495 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 521978.36it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3865.65it/s]
+2024-02-23 19:58:13,803 - INFO - ingest_open_web_math_worker.py:188 - === Batch 3212 begins ===
+2024-02-23 19:58:21,027 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 19:58:21,027 - INFO - ingest_open_web_math_worker.py:196 - Split into 12475 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 642217.28it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4552.07it/s]
+2024-02-23 20:03:34,833 - INFO - ingest_open_web_math_worker.py:188 - === Batch 4925 begins ===
+2024-02-23 20:03:42,046 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 20:03:42,046 - INFO - ingest_open_web_math_worker.py:196 - Split into 12236 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 656449.24it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3811.01it/s]
+2024-02-23 20:08:50,789 - INFO - ingest_open_web_math_worker.py:188 - === Batch 3801 begins ===
+2024-02-23 20:08:56,773 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 20:08:56,773 - INFO - ingest_open_web_math_worker.py:196 - Split into 10492 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 613138.88it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3909.49it/s]
+2024-02-23 20:13:34,542 - INFO - ingest_open_web_math_worker.py:188 - === Batch 499 begins ===
+2024-02-23 20:13:40,117 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 20:13:40,117 - INFO - ingest_open_web_math_worker.py:196 - Split into 10340 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 381914.87it/s]
+Loading dataset shards: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 742.73it/s]
+2024-02-23 20:18:13,917 - INFO - ingest_open_web_math_worker.py:188 - === Batch 5619 begins ===
+2024-02-23 20:18:20,654 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1023 documents from open_web_math dataset
+2024-02-23 20:18:20,654 - INFO - ingest_open_web_math_worker.py:196 - Split into 11326 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 406480.58it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3961.44it/s]
+2024-02-23 20:23:16,136 - INFO - ingest_open_web_math_worker.py:188 - === Batch 3617 begins ===
+2024-02-23 20:23:22,540 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 20:23:22,541 - INFO - ingest_open_web_math_worker.py:196 - Split into 11358 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 601467.45it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4633.42it/s]
+2024-02-23 20:28:20,779 - INFO - ingest_open_web_math_worker.py:188 - === Batch 3606 begins ===
+2024-02-23 20:28:29,977 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 20:28:29,977 - INFO - ingest_open_web_math_worker.py:196 - Split into 14491 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 384392.82it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3860.22it/s]
+2024-02-23 20:34:25,663 - INFO - ingest_open_web_math_worker.py:188 - === Batch 3028 begins ===
+2024-02-23 20:34:31,692 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 20:34:31,692 - INFO - ingest_open_web_math_worker.py:196 - Split into 11665 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 618741.97it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4410.83it/s]
+2024-02-23 20:39:30,908 - INFO - ingest_open_web_math_worker.py:188 - === Batch 5142 begins ===
+2024-02-23 20:39:36,914 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 20:39:36,914 - INFO - ingest_open_web_math_worker.py:196 - Split into 10222 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 498901.42it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4543.38it/s]
+2024-02-23 20:44:14,009 - INFO - ingest_open_web_math_worker.py:188 - === Batch 3889 begins ===
+2024-02-23 20:44:23,065 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 20:44:23,065 - INFO - ingest_open_web_math_worker.py:196 - Split into 13454 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 505823.21it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4737.21it/s]
+2024-02-23 20:50:03,347 - INFO - ingest_open_web_math_worker.py:188 - === Batch 1699 begins ===
+2024-02-23 20:50:10,132 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 20:50:10,132 - INFO - ingest_open_web_math_worker.py:196 - Split into 11558 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 398282.65it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4630.39it/s]
+2024-02-23 20:55:09,289 - INFO - ingest_open_web_math_worker.py:188 - === Batch 4064 begins ===
+2024-02-23 20:55:15,929 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 20:55:15,929 - INFO - ingest_open_web_math_worker.py:196 - Split into 11474 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 640481.56it/s]
+Loading dataset shards: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 665.58it/s]
+2024-02-23 21:00:14,356 - INFO - ingest_open_web_math_worker.py:188 - === Batch 3559 begins ===
+2024-02-23 21:00:21,313 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 21:00:21,313 - INFO - ingest_open_web_math_worker.py:196 - Split into 11762 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 494219.35it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4565.61it/s]
+2024-02-23 21:05:22,036 - INFO - ingest_open_web_math_worker.py:188 - === Batch 2487 begins ===
+2024-02-23 21:05:28,509 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 21:05:28,509 - INFO - ingest_open_web_math_worker.py:196 - Split into 11454 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 523130.63it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4783.26it/s]
+2024-02-23 21:10:26,519 - INFO - ingest_open_web_math_worker.py:188 - === Batch 1163 begins ===
+2024-02-23 21:10:34,822 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 21:10:34,822 - INFO - ingest_open_web_math_worker.py:196 - Split into 12588 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 425836.79it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4496.89it/s]
+2024-02-23 21:15:51,426 - INFO - ingest_open_web_math_worker.py:188 - === Batch 1102 begins ===
+2024-02-23 21:15:58,786 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 21:15:58,786 - INFO - ingest_open_web_math_worker.py:196 - Split into 12176 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 319377.60it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4310.17it/s]
+2024-02-23 21:21:16,918 - INFO - ingest_open_web_math_worker.py:188 - === Batch 2553 begins ===
+2024-02-23 21:21:23,004 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 21:21:23,004 - INFO - ingest_open_web_math_worker.py:196 - Split into 11433 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 164055.50it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4669.17it/s]
+2024-02-23 21:26:18,609 - INFO - ingest_open_web_math_worker.py:188 - === Batch 3959 begins ===
+2024-02-23 21:26:25,469 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 21:26:25,469 - INFO - ingest_open_web_math_worker.py:196 - Split into 12122 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 340485.89it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3802.74it/s]
+2024-02-23 21:31:38,187 - INFO - ingest_open_web_math_worker.py:188 - === Batch 6111 begins ===
+2024-02-23 21:31:45,914 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1023 documents from open_web_math dataset
+2024-02-23 21:31:45,914 - INFO - ingest_open_web_math_worker.py:196 - Split into 12184 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 623626.78it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4568.66it/s]
+2024-02-23 21:36:54,579 - INFO - ingest_open_web_math_worker.py:188 - === Batch 440 begins ===
+2024-02-23 21:37:00,840 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 21:37:00,840 - INFO - ingest_open_web_math_worker.py:196 - Split into 10835 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 518551.81it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4517.56it/s]
+2024-02-23 21:41:46,986 - INFO - ingest_open_web_math_worker.py:188 - === Batch 3217 begins ===
+2024-02-23 21:41:54,156 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 21:41:54,156 - INFO - ingest_open_web_math_worker.py:196 - Split into 13264 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 647481.36it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3876.61it/s]
+2024-02-23 21:47:25,287 - INFO - ingest_open_web_math_worker.py:188 - === Batch 2537 begins ===
+2024-02-23 21:47:31,087 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 21:47:31,087 - INFO - ingest_open_web_math_worker.py:196 - Split into 10512 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 621989.96it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4426.04it/s]
+2024-02-23 21:52:10,834 - INFO - ingest_open_web_math_worker.py:188 - === Batch 1581 begins ===
+2024-02-23 21:52:17,667 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 21:52:17,667 - INFO - ingest_open_web_math_worker.py:196 - Split into 11750 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 633631.49it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4109.67it/s]
+2024-02-23 21:57:18,441 - INFO - ingest_open_web_math_worker.py:188 - === Batch 4143 begins ===
+2024-02-23 21:57:25,370 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 21:57:25,371 - INFO - ingest_open_web_math_worker.py:196 - Split into 11017 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 517419.60it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4478.25it/s]
+2024-02-23 22:02:15,682 - INFO - ingest_open_web_math_worker.py:188 - === Batch 396 begins ===
+2024-02-23 22:02:21,644 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 22:02:21,644 - INFO - ingest_open_web_math_worker.py:196 - Split into 10098 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 346459.32it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4374.62it/s]
+2024-02-23 22:06:56,497 - INFO - ingest_open_web_math_worker.py:188 - === Batch 1417 begins ===
+2024-02-23 22:07:02,707 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 22:07:02,707 - INFO - ingest_open_web_math_worker.py:196 - Split into 10796 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 398953.16it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3961.70it/s]
+2024-02-23 22:11:49,218 - INFO - ingest_open_web_math_worker.py:188 - === Batch 2575 begins ===
+2024-02-23 22:11:55,271 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 22:11:55,271 - INFO - ingest_open_web_math_worker.py:196 - Split into 11341 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 655541.29it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4024.90it/s]
+2024-02-23 22:16:51,454 - INFO - ingest_open_web_math_worker.py:188 - === Batch 3347 begins ===
+2024-02-23 22:16:57,759 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 22:16:57,759 - INFO - ingest_open_web_math_worker.py:196 - Split into 11186 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 637038.11it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4017.80it/s]
+2024-02-23 22:21:54,407 - INFO - ingest_open_web_math_worker.py:188 - === Batch 5003 begins ===
+2024-02-23 22:22:01,193 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 22:22:01,194 - INFO - ingest_open_web_math_worker.py:196 - Split into 11588 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 630261.11it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4382.04it/s]
+2024-02-23 22:26:58,678 - INFO - ingest_open_web_math_worker.py:188 - === Batch 826 begins ===
+2024-02-23 22:27:06,111 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 22:27:06,111 - INFO - ingest_open_web_math_worker.py:196 - Split into 12552 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 627756.76it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4202.63it/s]
+2024-02-23 22:32:25,279 - INFO - ingest_open_web_math_worker.py:188 - === Batch 2475 begins ===
+2024-02-23 22:32:31,529 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 22:32:31,529 - INFO - ingest_open_web_math_worker.py:196 - Split into 10811 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 632785.52it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3843.38it/s]
+2024-02-23 22:37:18,958 - INFO - ingest_open_web_math_worker.py:188 - === Batch 1335 begins ===
+2024-02-23 22:37:27,531 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 22:37:27,531 - INFO - ingest_open_web_math_worker.py:196 - Split into 13559 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 653732.90it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3760.34it/s]
+2024-02-23 22:43:05,987 - INFO - ingest_open_web_math_worker.py:188 - === Batch 6060 begins ===
+2024-02-23 22:43:12,917 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1023 documents from open_web_math dataset
+2024-02-23 22:43:12,918 - INFO - ingest_open_web_math_worker.py:196 - Split into 12250 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 494735.23it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4417.22it/s]
+2024-02-23 22:48:29,061 - INFO - ingest_open_web_math_worker.py:188 - === Batch 4890 begins ===
+2024-02-23 22:48:35,952 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 22:48:35,952 - INFO - ingest_open_web_math_worker.py:196 - Split into 11054 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 629424.11it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4423.08it/s]
+2024-02-23 22:53:25,884 - INFO - ingest_open_web_math_worker.py:188 - === Batch 144 begins ===
+2024-02-23 22:53:32,853 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 22:53:32,853 - INFO - ingest_open_web_math_worker.py:196 - Split into 11082 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 641348.24it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3851.94it/s]
+2024-02-23 22:58:26,881 - INFO - ingest_open_web_math_worker.py:188 - === Batch 5083 begins ===
+2024-02-23 22:58:33,555 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 22:58:33,555 - INFO - ingest_open_web_math_worker.py:196 - Split into 11478 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 338057.31it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4371.19it/s]
+2024-02-23 23:03:32,502 - INFO - ingest_open_web_math_worker.py:188 - === Batch 295 begins ===
+2024-02-23 23:03:39,717 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 23:03:39,717 - INFO - ingest_open_web_math_worker.py:196 - Split into 11939 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 632785.52it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4339.26it/s]
+2024-02-23 23:08:47,061 - INFO - ingest_open_web_math_worker.py:188 - === Batch 2886 begins ===
+2024-02-23 23:08:54,287 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 23:08:54,287 - INFO - ingest_open_web_math_worker.py:196 - Split into 11811 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 637895.49it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3921.36it/s]
+2024-02-23 23:14:01,688 - INFO - ingest_open_web_math_worker.py:188 - === Batch 2067 begins ===
+2024-02-23 23:14:10,249 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 23:14:10,249 - INFO - ingest_open_web_math_worker.py:196 - Split into 13939 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 631100.34it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4353.49it/s]
+2024-02-23 23:20:09,350 - INFO - ingest_open_web_math_worker.py:188 - === Batch 5055 begins ===
+2024-02-23 23:20:16,265 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 23:20:16,265 - INFO - ingest_open_web_math_worker.py:196 - Split into 12363 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 318947.75it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4301.72it/s]
+2024-02-23 23:25:26,933 - INFO - ingest_open_web_math_worker.py:188 - === Batch 1042 begins ===
+2024-02-23 23:25:33,568 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 23:25:33,568 - INFO - ingest_open_web_math_worker.py:196 - Split into 10969 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 409642.48it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3951.10it/s]
+2024-02-23 23:30:23,982 - INFO - ingest_open_web_math_worker.py:188 - === Batch 2164 begins ===
+2024-02-23 23:30:31,576 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 23:30:31,576 - INFO - ingest_open_web_math_worker.py:196 - Split into 13048 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 524288.00it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3980.65it/s]
+2024-02-23 23:36:04,166 - INFO - ingest_open_web_math_worker.py:188 - === Batch 4685 begins ===
+2024-02-23 23:36:12,766 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 23:36:12,766 - INFO - ingest_open_web_math_worker.py:196 - Split into 13700 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 637038.11it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4003.82it/s]
+2024-02-23 23:41:55,690 - INFO - ingest_open_web_math_worker.py:188 - === Batch 598 begins ===
+2024-02-23 23:42:00,599 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 23:42:00,599 - INFO - ingest_open_web_math_worker.py:196 - Split into 9419 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 637895.49it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3956.41it/s]
+2024-02-23 23:46:17,752 - INFO - ingest_open_web_math_worker.py:188 - === Batch 5304 begins ===
+2024-02-23 23:46:24,109 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1023 documents from open_web_math dataset
+2024-02-23 23:46:24,109 - INFO - ingest_open_web_math_worker.py:196 - Split into 10870 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 505823.21it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3929.55it/s]
+2024-02-23 23:51:13,134 - INFO - ingest_open_web_math_worker.py:188 - === Batch 3242 begins ===
+2024-02-23 23:51:19,074 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 23:51:19,074 - INFO - ingest_open_web_math_worker.py:196 - Split into 10623 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 632785.52it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4088.53it/s]
+2024-02-23 23:55:58,110 - INFO - ingest_open_web_math_worker.py:188 - === Batch 3383 begins ===
+2024-02-23 23:56:05,081 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-23 23:56:05,081 - INFO - ingest_open_web_math_worker.py:196 - Split into 11443 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 628589.33it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3757.67it/s]
+2024-02-24 00:01:01,512 - INFO - ingest_open_web_math_worker.py:188 - === Batch 1102 begins ===
+2024-02-24 00:01:08,608 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 00:01:08,609 - INFO - ingest_open_web_math_worker.py:196 - Split into 12176 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 649255.28it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3871.76it/s]
+2024-02-24 00:06:26,355 - INFO - ingest_open_web_math_worker.py:188 - === Batch 6101 begins ===
+2024-02-24 00:06:33,002 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1023 documents from open_web_math dataset
+2024-02-24 00:06:33,002 - INFO - ingest_open_web_math_worker.py:196 - Split into 11389 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 642217.28it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4463.29it/s]
+2024-02-24 00:11:33,153 - INFO - ingest_open_web_math_worker.py:188 - === Batch 5852 begins ===
+2024-02-24 00:11:40,516 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1023 documents from open_web_math dataset
+2024-02-24 00:11:40,516 - INFO - ingest_open_web_math_worker.py:196 - Split into 12526 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 500481.89it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3861.38it/s]
+2024-02-24 00:17:04,458 - INFO - ingest_open_web_math_worker.py:188 - === Batch 2719 begins ===
+2024-02-24 00:17:12,551 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 00:17:12,551 - INFO - ingest_open_web_math_worker.py:196 - Split into 12921 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 401317.83it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3837.01it/s]
+2024-02-24 00:22:42,851 - INFO - ingest_open_web_math_worker.py:188 - === Batch 3001 begins ===
+2024-02-24 00:22:49,660 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 00:22:49,660 - INFO - ingest_open_web_math_worker.py:196 - Split into 11333 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 218715.44it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4223.49it/s]
+2024-02-24 00:27:46,111 - INFO - ingest_open_web_math_worker.py:188 - === Batch 3278 begins ===
+2024-02-24 00:27:52,247 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 00:27:52,248 - INFO - ingest_open_web_math_worker.py:196 - Split into 11089 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 382531.36it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3885.04it/s]
+2024-02-24 00:32:43,555 - INFO - ingest_open_web_math_worker.py:188 - === Batch 3894 begins ===
+2024-02-24 00:32:50,779 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 00:32:50,779 - INFO - ingest_open_web_math_worker.py:196 - Split into 12578 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 632785.52it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3793.64it/s]
+2024-02-24 00:38:05,304 - INFO - ingest_open_web_math_worker.py:188 - === Batch 5846 begins ===
+2024-02-24 00:38:11,942 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1023 documents from open_web_math dataset
+2024-02-24 00:38:11,942 - INFO - ingest_open_web_math_worker.py:196 - Split into 11719 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 530746.19it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3910.00it/s]
+2024-02-24 00:43:15,953 - INFO - ingest_open_web_math_worker.py:188 - === Batch 1703 begins ===
+2024-02-24 00:43:22,967 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 00:43:22,967 - INFO - ingest_open_web_math_worker.py:196 - Split into 13084 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 494219.35it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4525.86it/s]
+2024-02-24 00:48:55,480 - INFO - ingest_open_web_math_worker.py:188 - === Batch 2256 begins ===
+2024-02-24 00:49:02,982 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 00:49:02,982 - INFO - ingest_open_web_math_worker.py:196 - Split into 12825 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 615527.73it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4326.06it/s]
+2024-02-24 00:54:29,868 - INFO - ingest_open_web_math_worker.py:188 - === Batch 4973 begins ===
+2024-02-24 00:54:35,921 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 00:54:35,921 - INFO - ingest_open_web_math_worker.py:196 - Split into 10899 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 643088.67it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3856.67it/s]
+2024-02-24 00:59:24,600 - INFO - ingest_open_web_math_worker.py:188 - === Batch 4873 begins ===
+2024-02-24 00:59:31,086 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 00:59:31,086 - INFO - ingest_open_web_math_worker.py:196 - Split into 11600 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 406829.49it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3887.68it/s]
+2024-02-24 01:04:33,669 - INFO - ingest_open_web_math_worker.py:188 - === Batch 3479 begins ===
+2024-02-24 01:04:39,698 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 01:04:39,698 - INFO - ingest_open_web_math_worker.py:196 - Split into 10595 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 641348.24it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3777.68it/s]
+2024-02-24 01:09:18,420 - INFO - ingest_open_web_math_worker.py:188 - === Batch 898 begins ===
+2024-02-24 01:09:27,172 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 01:09:27,173 - INFO - ingest_open_web_math_worker.py:196 - Split into 15267 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 557595.71it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3737.48it/s]
+2024-02-24 01:15:44,705 - INFO - ingest_open_web_math_worker.py:188 - === Batch 365 begins ===
+2024-02-24 01:15:51,860 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 01:15:51,860 - INFO - ingest_open_web_math_worker.py:196 - Split into 12120 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 303623.54it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3798.23it/s]
+2024-02-24 01:21:05,442 - INFO - ingest_open_web_math_worker.py:188 - === Batch 619 begins ===
+2024-02-24 01:21:12,961 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 01:21:12,961 - INFO - ingest_open_web_math_worker.py:196 - Split into 13174 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 640481.56it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3920.78it/s]
+2024-02-24 01:26:43,026 - INFO - ingest_open_web_math_worker.py:188 - === Batch 2131 begins ===
+2024-02-24 01:26:50,401 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 01:26:50,401 - INFO - ingest_open_web_math_worker.py:196 - Split into 12086 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 634479.72it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3771.49it/s]
+2024-02-24 01:31:58,100 - INFO - ingest_open_web_math_worker.py:188 - === Batch 3396 begins ===
+2024-02-24 01:32:03,817 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 01:32:03,817 - INFO - ingest_open_web_math_worker.py:196 - Split into 9823 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 643088.67it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3782.97it/s]
+2024-02-24 01:36:29,346 - INFO - ingest_open_web_math_worker.py:188 - === Batch 5239 begins ===
+2024-02-24 01:36:36,242 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1023 documents from open_web_math dataset
+2024-02-24 01:36:36,243 - INFO - ingest_open_web_math_worker.py:196 - Split into 11188 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 633631.49it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3840.80it/s]
+2024-02-24 01:41:28,243 - INFO - ingest_open_web_math_worker.py:188 - === Batch 6022 begins ===
+2024-02-24 01:41:35,408 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1023 documents from open_web_math dataset
+2024-02-24 01:41:35,408 - INFO - ingest_open_web_math_worker.py:196 - Split into 11363 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 527791.04it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4569.50it/s]
+2024-02-24 01:46:30,848 - INFO - ingest_open_web_math_worker.py:188 - === Batch 1229 begins ===
+2024-02-24 01:46:38,228 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 01:46:38,229 - INFO - ingest_open_web_math_worker.py:196 - Split into 12281 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 637895.49it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3994.88it/s]
+2024-02-24 01:51:59,361 - INFO - ingest_open_web_math_worker.py:188 - === Batch 3811 begins ===
+2024-02-24 01:52:06,204 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 01:52:06,205 - INFO - ingest_open_web_math_worker.py:196 - Split into 12585 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 645717.10it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4047.90it/s]
+2024-02-24 01:57:29,967 - INFO - ingest_open_web_math_worker.py:188 - === Batch 3112 begins ===
+2024-02-24 01:57:36,817 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 01:57:36,817 - INFO - ingest_open_web_math_worker.py:196 - Split into 11971 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 539813.61it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4308.54it/s]
+2024-02-24 02:02:41,870 - INFO - ingest_open_web_math_worker.py:188 - === Batch 659 begins ===
+2024-02-24 02:02:48,685 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 02:02:48,685 - INFO - ingest_open_web_math_worker.py:196 - Split into 11951 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 622807.30it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3815.65it/s]
+2024-02-24 02:07:54,635 - INFO - ingest_open_web_math_worker.py:188 - === Batch 1291 begins ===
+2024-02-24 02:08:02,259 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 02:08:02,259 - INFO - ingest_open_web_math_worker.py:196 - Split into 13046 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 633631.49it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3782.40it/s]
+2024-02-24 02:13:34,702 - INFO - ingest_open_web_math_worker.py:188 - === Batch 2329 begins ===
+2024-02-24 02:13:41,578 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 02:13:41,578 - INFO - ingest_open_web_math_worker.py:196 - Split into 11472 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 521978.36it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4423.35it/s]
+2024-02-24 02:18:41,732 - INFO - ingest_open_web_math_worker.py:188 - === Batch 5361 begins ===
+2024-02-24 02:18:48,210 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1023 documents from open_web_math dataset
+2024-02-24 02:18:48,210 - INFO - ingest_open_web_math_worker.py:196 - Split into 12377 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 620361.72it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3949.14it/s]
+2024-02-24 02:23:53,122 - INFO - ingest_open_web_math_worker.py:188 - === Batch 3332 begins ===
+2024-02-24 02:23:59,649 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 02:23:59,649 - INFO - ingest_open_web_math_worker.py:196 - Split into 11413 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 620361.72it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4610.98it/s]
+2024-02-24 02:28:58,628 - INFO - ingest_open_web_math_worker.py:188 - === Batch 2757 begins ===
+2024-02-24 02:29:05,484 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 02:29:05,484 - INFO - ingest_open_web_math_worker.py:196 - Split into 11348 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 633631.49it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3818.40it/s]
+2024-02-24 02:34:03,106 - INFO - ingest_open_web_math_worker.py:188 - === Batch 3398 begins ===
+2024-02-24 02:34:08,910 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 02:34:08,911 - INFO - ingest_open_web_math_worker.py:196 - Split into 10368 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 404399.62it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3939.67it/s]
+2024-02-24 02:38:48,962 - INFO - ingest_open_web_math_worker.py:188 - === Batch 5684 begins ===
+2024-02-24 02:38:55,906 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1023 documents from open_web_math dataset
+2024-02-24 02:38:55,906 - INFO - ingest_open_web_math_worker.py:196 - Split into 12095 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 402339.86it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3741.34it/s]
+2024-02-24 02:44:02,158 - INFO - ingest_open_web_math_worker.py:188 - === Batch 3768 begins ===
+2024-02-24 02:44:09,253 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 02:44:09,253 - INFO - ingest_open_web_math_worker.py:196 - Split into 12141 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 646598.02it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3990.66it/s]
+2024-02-24 02:49:21,429 - INFO - ingest_open_web_math_worker.py:188 - === Batch 502 begins ===
+2024-02-24 02:49:27,187 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 02:49:27,187 - INFO - ingest_open_web_math_worker.py:196 - Split into 10880 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 635330.23it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3950.18it/s]
+2024-02-24 02:54:03,015 - INFO - ingest_open_web_math_worker.py:188 - === Batch 2599 begins ===
+2024-02-24 02:54:08,860 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 02:54:08,860 - INFO - ingest_open_web_math_worker.py:196 - Split into 10790 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 400300.97it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3963.74it/s]
+2024-02-24 02:58:57,629 - INFO - ingest_open_web_math_worker.py:188 - === Batch 5051 begins ===
+2024-02-24 02:59:03,277 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 02:59:03,277 - INFO - ingest_open_web_math_worker.py:196 - Split into 10272 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 637038.11it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3850.01it/s]
+2024-02-24 03:03:43,075 - INFO - ingest_open_web_math_worker.py:188 - === Batch 1441 begins ===
+2024-02-24 03:03:49,052 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 03:03:49,052 - INFO - ingest_open_web_math_worker.py:196 - Split into 10845 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 411420.44it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4337.88it/s]
+2024-02-24 03:08:39,501 - INFO - ingest_open_web_math_worker.py:188 - === Batch 5066 begins ===
+2024-02-24 03:08:46,740 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 03:08:46,740 - INFO - ingest_open_web_math_worker.py:196 - Split into 12263 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 633631.49it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4064.76it/s]
+2024-02-24 03:13:58,211 - INFO - ingest_open_web_math_worker.py:188 - === Batch 4610 begins ===
+2024-02-24 03:14:04,721 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 03:14:04,722 - INFO - ingest_open_web_math_worker.py:196 - Split into 11332 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 313049.11it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4632.87it/s]
+2024-02-24 03:19:01,818 - INFO - ingest_open_web_math_worker.py:188 - === Batch 2296 begins ===
+2024-02-24 03:19:09,006 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 03:19:09,007 - INFO - ingest_open_web_math_worker.py:196 - Split into 12287 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 637038.11it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4061.36it/s]
+2024-02-24 03:24:27,800 - INFO - ingest_open_web_math_worker.py:188 - === Batch 3111 begins ===
+2024-02-24 03:24:34,240 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 03:24:34,240 - INFO - ingest_open_web_math_worker.py:196 - Split into 11754 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 527203.95it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4219.33it/s]
+2024-02-24 03:29:39,685 - INFO - ingest_open_web_math_worker.py:188 - === Batch 1351 begins ===
+2024-02-24 03:29:46,613 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 03:29:46,613 - INFO - ingest_open_web_math_worker.py:196 - Split into 12339 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 636183.02it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4063.35it/s]
+2024-02-24 03:35:00,376 - INFO - ingest_open_web_math_worker.py:188 - === Batch 3097 begins ===
+2024-02-24 03:35:07,452 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 03:35:07,452 - INFO - ingest_open_web_math_worker.py:196 - Split into 11964 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 487108.28it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3848.23it/s]
+2024-02-24 03:40:13,176 - INFO - ingest_open_web_math_worker.py:188 - === Batch 5433 begins ===
+2024-02-24 03:40:20,803 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1023 documents from open_web_math dataset
+2024-02-24 03:40:20,803 - INFO - ingest_open_web_math_worker.py:196 - Split into 12581 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 521978.36it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4225.98it/s]
+2024-02-24 03:45:40,150 - INFO - ingest_open_web_math_worker.py:188 - === Batch 2218 begins ===
+2024-02-24 03:45:45,791 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 03:45:45,791 - INFO - ingest_open_web_math_worker.py:196 - Split into 10620 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 634479.72it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3918.93it/s]
+2024-02-24 03:50:25,762 - INFO - ingest_open_web_math_worker.py:188 - === Batch 4288 begins ===
+2024-02-24 03:50:32,608 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 03:50:32,608 - INFO - ingest_open_web_math_worker.py:196 - Split into 11522 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 628589.33it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3816.20it/s]
+2024-02-24 03:55:34,115 - INFO - ingest_open_web_math_worker.py:188 - === Batch 3559 begins ===
+2024-02-24 03:55:40,657 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 03:55:40,657 - INFO - ingest_open_web_math_worker.py:196 - Split into 11762 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 635330.23it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4557.02it/s]
+2024-02-24 04:00:42,401 - INFO - ingest_open_web_math_worker.py:188 - === Batch 4507 begins ===
+2024-02-24 04:00:49,126 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 04:00:49,126 - INFO - ingest_open_web_math_worker.py:196 - Split into 11416 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 408583.06it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4414.14it/s]
+2024-02-24 04:05:46,952 - INFO - ingest_open_web_math_worker.py:188 - === Batch 5114 begins ===
+2024-02-24 04:05:55,278 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 04:05:55,278 - INFO - ingest_open_web_math_worker.py:196 - Split into 13550 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 539813.61it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4671.13it/s]
+2024-02-24 04:11:38,397 - INFO - ingest_open_web_math_worker.py:188 - === Batch 3157 begins ===
+2024-02-24 04:11:44,455 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 04:11:44,455 - INFO - ingest_open_web_math_worker.py:196 - Split into 10732 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 415751.19it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 5665.63it/s]
+2024-02-24 04:16:28,768 - INFO - ingest_open_web_math_worker.py:188 - === Batch 3421 begins ===
+2024-02-24 04:16:35,078 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 04:16:35,078 - INFO - ingest_open_web_math_worker.py:196 - Split into 10389 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 412494.65it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4805.40it/s]
+2024-02-24 04:21:03,548 - INFO - ingest_open_web_math_worker.py:188 - === Batch 4493 begins ===
+2024-02-24 04:21:09,940 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 04:21:09,940 - INFO - ingest_open_web_math_worker.py:196 - Split into 11192 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 315130.55it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4389.80it/s]
+2024-02-24 04:26:02,886 - INFO - ingest_open_web_math_worker.py:188 - === Batch 2618 begins ===
+2024-02-24 04:26:09,428 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 04:26:09,428 - INFO - ingest_open_web_math_worker.py:196 - Split into 11567 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 421669.35it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3936.89it/s]
+2024-02-24 04:31:08,926 - INFO - ingest_open_web_math_worker.py:188 - === Batch 418 begins ===
+2024-02-24 04:31:16,015 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 04:31:16,015 - INFO - ingest_open_web_math_worker.py:196 - Split into 12336 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 624448.42it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3935.86it/s]
+2024-02-24 04:36:25,451 - INFO - ingest_open_web_math_worker.py:188 - === Batch 3547 begins ===
+2024-02-24 04:36:31,920 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 04:36:31,920 - INFO - ingest_open_web_math_worker.py:196 - Split into 10879 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 395623.00it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3852.57it/s]
+2024-02-24 04:41:26,836 - INFO - ingest_open_web_math_worker.py:188 - === Batch 855 begins ===
+2024-02-24 04:41:34,201 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 04:41:34,201 - INFO - ingest_open_web_math_worker.py:196 - Split into 11380 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 605308.24it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3710.57it/s]
+2024-02-24 04:46:33,072 - INFO - ingest_open_web_math_worker.py:188 - === Batch 4897 begins ===
+2024-02-24 04:46:39,913 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 04:46:39,913 - INFO - ingest_open_web_math_worker.py:196 - Split into 11954 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 485113.97it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3914.59it/s]
+2024-02-24 04:51:44,679 - INFO - ingest_open_web_math_worker.py:188 - === Batch 282 begins ===
+2024-02-24 04:51:51,431 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 04:51:51,431 - INFO - ingest_open_web_math_worker.py:196 - Split into 11595 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 637038.11it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3980.39it/s]
+2024-02-24 04:56:51,221 - INFO - ingest_open_web_math_worker.py:188 - === Batch 2529 begins ===
+2024-02-24 04:56:58,582 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 04:56:58,582 - INFO - ingest_open_web_math_worker.py:196 - Split into 13524 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 619550.79it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4195.84it/s]
+2024-02-24 05:02:31,345 - INFO - ingest_open_web_math_worker.py:188 - === Batch 925 begins ===
+2024-02-24 05:02:39,477 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 05:02:39,477 - INFO - ingest_open_web_math_worker.py:196 - Split into 13563 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 534336.36it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3976.24it/s]
+2024-02-24 05:08:22,540 - INFO - ingest_open_web_math_worker.py:188 - === Batch 3792 begins ===
+2024-02-24 05:08:28,452 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 05:08:28,452 - INFO - ingest_open_web_math_worker.py:196 - Split into 10458 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 632785.52it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3935.68it/s]
+2024-02-24 05:13:11,040 - INFO - ingest_open_web_math_worker.py:188 - === Batch 546 begins ===
+2024-02-24 05:13:17,786 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 05:13:17,786 - INFO - ingest_open_web_math_worker.py:196 - Split into 10938 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 537365.48it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4167.57it/s]
+2024-02-24 05:18:05,995 - INFO - ingest_open_web_math_worker.py:188 - === Batch 4640 begins ===
+2024-02-24 05:18:12,463 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 05:18:12,463 - INFO - ingest_open_web_math_worker.py:196 - Split into 11297 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 404399.62it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4355.55it/s]
+2024-02-24 05:23:09,646 - INFO - ingest_open_web_math_worker.py:188 - === Batch 268 begins ===
+2024-02-24 05:23:17,102 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 05:23:17,102 - INFO - ingest_open_web_math_worker.py:196 - Split into 11839 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 513495.51it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3978.63it/s]
+2024-02-24 05:28:24,639 - INFO - ingest_open_web_math_worker.py:188 - === Batch 5638 begins ===
+2024-02-24 05:28:30,484 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1023 documents from open_web_math dataset
+2024-02-24 05:28:30,485 - INFO - ingest_open_web_math_worker.py:196 - Split into 10801 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 626098.22it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4277.87it/s]
+2024-02-24 05:33:12,891 - INFO - ingest_open_web_math_worker.py:188 - === Batch 2659 begins ===
+2024-02-24 05:33:22,651 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 05:33:22,651 - INFO - ingest_open_web_math_worker.py:196 - Split into 14250 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 607636.35it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3876.12it/s]
+2024-02-24 05:39:23,916 - INFO - ingest_open_web_math_worker.py:188 - === Batch 2406 begins ===
+2024-02-24 05:39:30,699 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 05:39:30,699 - INFO - ingest_open_web_math_worker.py:196 - Split into 11447 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 648367.10it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4562.91it/s]
+2024-02-24 05:44:30,796 - INFO - ingest_open_web_math_worker.py:188 - === Batch 2833 begins ===
+2024-02-24 05:44:37,501 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 05:44:37,501 - INFO - ingest_open_web_math_worker.py:196 - Split into 11248 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 640481.56it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4374.53it/s]
+2024-02-24 05:49:35,541 - INFO - ingest_open_web_math_worker.py:188 - === Batch 94 begins ===
+2024-02-24 05:49:42,032 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 05:49:42,032 - INFO - ingest_open_web_math_worker.py:196 - Split into 11516 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 643962.43it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4662.85it/s]
+2024-02-24 05:54:39,984 - INFO - ingest_open_web_math_worker.py:188 - === Batch 4433 begins ===
+2024-02-24 05:54:46,804 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 05:54:46,804 - INFO - ingest_open_web_math_worker.py:196 - Split into 11282 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 318947.75it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3884.47it/s]
+2024-02-24 05:59:43,052 - INFO - ingest_open_web_math_worker.py:188 - === Batch 5973 begins ===
+2024-02-24 05:59:49,830 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1023 documents from open_web_math dataset
+2024-02-24 05:59:49,830 - INFO - ingest_open_web_math_worker.py:196 - Split into 11383 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 409288.73it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4346.70it/s]
+2024-02-24 06:04:48,196 - INFO - ingest_open_web_math_worker.py:188 - === Batch 1604 begins ===
+2024-02-24 06:04:55,582 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 06:04:55,583 - INFO - ingest_open_web_math_worker.py:196 - Split into 12542 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 514052.44it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4094.93it/s]
+2024-02-24 06:10:17,618 - INFO - ingest_open_web_math_worker.py:188 - === Batch 4928 begins ===
+2024-02-24 06:10:23,787 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 06:10:23,787 - INFO - ingest_open_web_math_worker.py:196 - Split into 11198 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 396284.58it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4218.19it/s]
+2024-02-24 06:15:16,480 - INFO - ingest_open_web_math_worker.py:188 - === Batch 3938 begins ===
+2024-02-24 06:15:23,861 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 06:15:23,861 - INFO - ingest_open_web_math_worker.py:196 - Split into 12802 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 389766.74it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4310.87it/s]
+2024-02-24 06:20:43,088 - INFO - ingest_open_web_math_worker.py:188 - === Batch 4920 begins ===
+2024-02-24 06:20:49,376 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 06:20:49,376 - INFO - ingest_open_web_math_worker.py:196 - Split into 11011 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 535543.90it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4411.70it/s]
+2024-02-24 06:25:36,640 - INFO - ingest_open_web_math_worker.py:188 - === Batch 2049 begins ===
+2024-02-24 06:25:44,288 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 06:25:44,288 - INFO - ingest_open_web_math_worker.py:196 - Split into 13035 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 396284.58it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4476.88it/s]
+2024-02-24 06:31:12,253 - INFO - ingest_open_web_math_worker.py:188 - === Batch 3745 begins ===
+2024-02-24 06:31:19,035 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 06:31:19,035 - INFO - ingest_open_web_math_worker.py:196 - Split into 10922 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 524868.61it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4353.31it/s]
+2024-02-24 06:36:08,344 - INFO - ingest_open_web_math_worker.py:188 - === Batch 4078 begins ===
+2024-02-24 06:36:14,448 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 06:36:14,448 - INFO - ingest_open_web_math_worker.py:196 - Split into 10512 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 395623.00it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4415.29it/s]
+2024-02-24 06:40:55,296 - INFO - ingest_open_web_math_worker.py:188 - === Batch 5037 begins ===
+2024-02-24 06:41:02,197 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 06:41:02,197 - INFO - ingest_open_web_math_worker.py:196 - Split into 11552 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 409288.73it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4430.99it/s]
+2024-02-24 06:46:04,709 - INFO - ingest_open_web_math_worker.py:188 - === Batch 4255 begins ===
+2024-02-24 06:46:12,767 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 06:46:12,767 - INFO - ingest_open_web_math_worker.py:196 - Split into 13361 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 637895.49it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3719.17it/s]
+2024-02-24 06:51:58,737 - INFO - ingest_open_web_math_worker.py:188 - === Batch 4239 begins ===
+2024-02-24 06:52:05,858 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 06:52:05,858 - INFO - ingest_open_web_math_worker.py:196 - Split into 12095 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 575189.75it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4645.52it/s]
+2024-02-24 06:57:18,369 - INFO - ingest_open_web_math_worker.py:188 - === Batch 1047 begins ===
+2024-02-24 06:57:24,349 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 06:57:24,349 - INFO - ingest_open_web_math_worker.py:196 - Split into 11230 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 615527.73it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4456.53it/s]
+2024-02-24 07:02:19,046 - INFO - ingest_open_web_math_worker.py:188 - === Batch 1516 begins ===
+2024-02-24 07:02:25,185 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 07:02:25,185 - INFO - ingest_open_web_math_worker.py:196 - Split into 10349 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 315970.90it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3910.11it/s]
+2024-02-24 07:07:00,673 - INFO - ingest_open_web_math_worker.py:188 - === Batch 348 begins ===
+2024-02-24 07:07:10,833 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 07:07:10,833 - INFO - ingest_open_web_math_worker.py:196 - Split into 15229 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 494735.23it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3772.46it/s]
+2024-02-24 07:13:24,330 - INFO - ingest_open_web_math_worker.py:188 - === Batch 457 begins ===
+2024-02-24 07:13:31,272 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 07:13:31,272 - INFO - ingest_open_web_math_worker.py:196 - Split into 12508 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 640481.56it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3771.72it/s]
+2024-02-24 07:18:46,159 - INFO - ingest_open_web_math_worker.py:188 - === Batch 1232 begins ===
+2024-02-24 07:18:53,714 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 07:18:53,714 - INFO - ingest_open_web_math_worker.py:196 - Split into 12729 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 549196.24it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4611.28it/s]
+2024-02-24 07:24:17,483 - INFO - ingest_open_web_math_worker.py:188 - === Batch 1523 begins ===
+2024-02-24 07:24:23,492 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 07:24:23,492 - INFO - ingest_open_web_math_worker.py:196 - Split into 11597 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 515730.52it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3846.03it/s]
+2024-02-24 07:29:24,368 - INFO - ingest_open_web_math_worker.py:188 - === Batch 4485 begins ===
+2024-02-24 07:29:30,283 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 07:29:30,283 - INFO - ingest_open_web_math_worker.py:196 - Split into 11212 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 620361.72it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3838.33it/s]
+2024-02-24 07:34:25,355 - INFO - ingest_open_web_math_worker.py:188 - === Batch 2617 begins ===
+2024-02-24 07:34:31,517 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 07:34:31,517 - INFO - ingest_open_web_math_worker.py:196 - Split into 11537 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 320024.55it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3867.91it/s]
+2024-02-24 07:39:30,964 - INFO - ingest_open_web_math_worker.py:188 - === Batch 5401 begins ===
+2024-02-24 07:39:38,007 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1023 documents from open_web_math dataset
+2024-02-24 07:39:38,007 - INFO - ingest_open_web_math_worker.py:196 - Split into 12008 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 349783.29it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4195.47it/s]
+2024-02-24 07:44:47,083 - INFO - ingest_open_web_math_worker.py:188 - === Batch 2468 begins ===
+2024-02-24 07:44:53,851 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 07:44:53,852 - INFO - ingest_open_web_math_worker.py:196 - Split into 12273 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 395623.00it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4023.75it/s]
+2024-02-24 07:50:08,681 - INFO - ingest_open_web_math_worker.py:188 - === Batch 3724 begins ===
+2024-02-24 07:50:15,838 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 07:50:15,838 - INFO - ingest_open_web_math_worker.py:196 - Split into 12407 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 439662.66it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4486.69it/s]
+2024-02-24 07:55:34,332 - INFO - ingest_open_web_math_worker.py:188 - === Batch 1060 begins ===
+2024-02-24 07:55:40,969 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 07:55:40,969 - INFO - ingest_open_web_math_worker.py:196 - Split into 11692 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 518551.81it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3811.29it/s]
+2024-02-24 08:00:43,189 - INFO - ingest_open_web_math_worker.py:188 - === Batch 216 begins ===
+2024-02-24 08:00:52,932 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 08:00:52,933 - INFO - ingest_open_web_math_worker.py:196 - Split into 10839 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 507447.91it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3959.74it/s]
+2024-02-24 08:05:38,836 - INFO - ingest_open_web_math_worker.py:188 - === Batch 2255 begins ===
+2024-02-24 08:05:45,480 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 08:05:45,480 - INFO - ingest_open_web_math_worker.py:196 - Split into 12067 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 499427.14it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3946.24it/s]
+2024-02-24 08:10:56,423 - INFO - ingest_open_web_math_worker.py:188 - === Batch 3368 begins ===
+2024-02-24 08:11:03,449 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 08:11:03,449 - INFO - ingest_open_web_math_worker.py:196 - Split into 12641 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 614729.38it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4228.64it/s]
+2024-02-24 08:16:25,180 - INFO - ingest_open_web_math_worker.py:188 - === Batch 4211 begins ===
+2024-02-24 08:16:32,058 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 08:16:32,058 - INFO - ingest_open_web_math_worker.py:196 - Split into 11255 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 472538.74it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3755.34it/s]
+2024-02-24 08:21:24,073 - INFO - ingest_open_web_math_worker.py:188 - === Batch 131 begins ===
+2024-02-24 08:21:30,584 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 08:21:30,584 - INFO - ingest_open_web_math_worker.py:196 - Split into 11593 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 402681.69it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4672.83it/s]
+2024-02-24 08:26:33,564 - INFO - ingest_open_web_math_worker.py:188 - === Batch 5599 begins ===
+2024-02-24 08:26:40,381 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1023 documents from open_web_math dataset
+2024-02-24 08:26:40,381 - INFO - ingest_open_web_math_worker.py:196 - Split into 12193 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 629424.11it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4414.14it/s]
+2024-02-24 08:31:53,747 - INFO - ingest_open_web_math_worker.py:188 - === Batch 3522 begins ===
+2024-02-24 08:32:00,580 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 08:32:00,580 - INFO - ingest_open_web_math_worker.py:196 - Split into 11916 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 648367.10it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4359.00it/s]
+2024-02-24 08:37:12,660 - INFO - ingest_open_web_math_worker.py:188 - === Batch 162 begins ===
+2024-02-24 08:37:18,829 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 08:37:18,829 - INFO - ingest_open_web_math_worker.py:196 - Split into 11188 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 528379.43it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4461.23it/s]
+2024-02-24 08:42:11,620 - INFO - ingest_open_web_math_worker.py:188 - === Batch 3949 begins ===
+2024-02-24 08:42:18,293 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 08:42:18,293 - INFO - ingest_open_web_math_worker.py:196 - Split into 11791 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 616328.16it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4911.59it/s]
+2024-02-24 08:47:25,117 - INFO - ingest_open_web_math_worker.py:188 - === Batch 2025 begins ===
+2024-02-24 08:47:30,855 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 08:47:30,856 - INFO - ingest_open_web_math_worker.py:196 - Split into 10093 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 655541.29it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3927.87it/s]
+2024-02-24 08:52:02,745 - INFO - ingest_open_web_math_worker.py:188 - === Batch 451 begins ===
+2024-02-24 08:52:08,798 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 08:52:08,798 - INFO - ingest_open_web_math_worker.py:196 - Split into 11888 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 633631.49it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3954.49it/s]
+2024-02-24 08:57:16,937 - INFO - ingest_open_web_math_worker.py:188 - === Batch 1975 begins ===
+2024-02-24 08:57:23,818 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 08:57:23,818 - INFO - ingest_open_web_math_worker.py:196 - Split into 11893 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 625272.23it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3781.32it/s]
+2024-02-24 09:02:31,304 - INFO - ingest_open_web_math_worker.py:188 - === Batch 4075 begins ===
+2024-02-24 09:02:37,784 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 09:02:37,784 - INFO - ingest_open_web_math_worker.py:196 - Split into 11615 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 636183.02it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3837.46it/s]
+2024-02-24 09:07:41,985 - INFO - ingest_open_web_math_worker.py:188 - === Batch 1169 begins ===
+2024-02-24 09:07:48,447 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 09:07:48,447 - INFO - ingest_open_web_math_worker.py:196 - Split into 11182 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 632785.52it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3863.14it/s]
+2024-02-24 09:12:42,614 - INFO - ingest_open_web_math_worker.py:188 - === Batch 142 begins ===
+2024-02-24 09:12:48,591 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 09:12:48,591 - INFO - ingest_open_web_math_worker.py:196 - Split into 10952 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 650145.89it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3904.99it/s]
+2024-02-24 09:17:44,318 - INFO - ingest_open_web_math_worker.py:188 - === Batch 2410 begins ===
+2024-02-24 09:17:50,748 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 09:17:50,748 - INFO - ingest_open_web_math_worker.py:196 - Split into 11831 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 638755.19it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3756.20it/s]
+2024-02-24 09:23:00,232 - INFO - ingest_open_web_math_worker.py:188 - === Batch 4210 begins ===
+2024-02-24 09:23:06,131 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 09:23:06,131 - INFO - ingest_open_web_math_worker.py:196 - Split into 10918 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 649255.28it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4520.30it/s]
+2024-02-24 09:27:53,554 - INFO - ingest_open_web_math_worker.py:188 - === Batch 3971 begins ===
+2024-02-24 09:28:00,370 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 09:28:00,370 - INFO - ingest_open_web_math_worker.py:196 - Split into 11640 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 631100.34it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3938.31it/s]
+2024-02-24 09:33:05,771 - INFO - ingest_open_web_math_worker.py:188 - === Batch 4232 begins ===
+2024-02-24 09:33:12,109 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 09:33:12,109 - INFO - ingest_open_web_math_worker.py:196 - Split into 11163 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 388170.64it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4450.03it/s]
+2024-02-24 09:38:05,115 - INFO - ingest_open_web_math_worker.py:188 - === Batch 705 begins ===
+2024-02-24 09:38:11,901 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 09:38:11,902 - INFO - ingest_open_web_math_worker.py:196 - Split into 11624 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 523708.68it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3928.23it/s]
+2024-02-24 09:43:15,578 - INFO - ingest_open_web_math_worker.py:188 - === Batch 5064 begins ===
+2024-02-24 09:43:22,285 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 09:43:22,286 - INFO - ingest_open_web_math_worker.py:196 - Split into 12337 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 617935.27it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3978.56it/s]
+2024-02-24 09:48:40,241 - INFO - ingest_open_web_math_worker.py:188 - === Batch 4706 begins ===
+2024-02-24 09:48:48,275 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 09:48:48,275 - INFO - ingest_open_web_math_worker.py:196 - Split into 12406 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 628589.33it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3821.50it/s]
+2024-02-24 09:54:03,784 - INFO - ingest_open_web_math_worker.py:188 - === Batch 2503 begins ===
+2024-02-24 09:54:10,601 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 09:54:10,602 - INFO - ingest_open_web_math_worker.py:196 - Split into 11793 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 634479.72it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4550.36it/s]
+2024-02-24 09:59:16,127 - INFO - ingest_open_web_math_worker.py:188 - === Batch 2564 begins ===
+2024-02-24 09:59:21,992 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 09:59:21,992 - INFO - ingest_open_web_math_worker.py:196 - Split into 10434 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 634479.72it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4403.86it/s]
+2024-02-24 10:04:02,857 - INFO - ingest_open_web_math_worker.py:188 - === Batch 2445 begins ===
+2024-02-24 10:04:09,568 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 10:04:09,568 - INFO - ingest_open_web_math_worker.py:196 - Split into 11967 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 650145.89it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4693.95it/s]
+2024-02-24 10:09:18,549 - INFO - ingest_open_web_math_worker.py:188 - === Batch 5540 begins ===
+2024-02-24 10:09:25,287 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1023 documents from open_web_math dataset
+2024-02-24 10:09:25,288 - INFO - ingest_open_web_math_worker.py:196 - Split into 11697 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 642217.28it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3799.19it/s]
+2024-02-24 10:14:27,753 - INFO - ingest_open_web_math_worker.py:188 - === Batch 1477 begins ===
+2024-02-24 10:14:34,357 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 10:14:34,357 - INFO - ingest_open_web_math_worker.py:196 - Split into 11861 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 596171.51it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3887.21it/s]
+2024-02-24 10:19:35,883 - INFO - ingest_open_web_math_worker.py:188 - === Batch 3810 begins ===
+2024-02-24 10:19:43,228 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 10:19:43,228 - INFO - ingest_open_web_math_worker.py:196 - Split into 12154 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 446286.58it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3838.57it/s]
+2024-02-24 10:24:58,029 - INFO - ingest_open_web_math_worker.py:188 - === Batch 4275 begins ===
+2024-02-24 10:25:05,927 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 10:25:05,927 - INFO - ingest_open_web_math_worker.py:196 - Split into 13500 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 641348.24it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3977.06it/s]
+2024-02-24 10:30:45,678 - INFO - ingest_open_web_math_worker.py:188 - === Batch 2057 begins ===
+2024-02-24 10:30:52,270 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 10:30:52,270 - INFO - ingest_open_web_math_worker.py:196 - Split into 11407 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 524288.00it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4561.33it/s]
+2024-02-24 10:35:51,835 - INFO - ingest_open_web_math_worker.py:188 - === Batch 4991 begins ===
+2024-02-24 10:35:59,229 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 10:35:59,229 - INFO - ingest_open_web_math_worker.py:196 - Split into 13071 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 489119.04it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3970.95it/s]
+2024-02-24 10:41:29,813 - INFO - ingest_open_web_math_worker.py:188 - === Batch 4096 begins ===
+2024-02-24 10:41:36,261 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 10:41:36,261 - INFO - ingest_open_web_math_worker.py:196 - Split into 11629 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 634479.72it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4722.63it/s]
+2024-02-24 10:46:38,847 - INFO - ingest_open_web_math_worker.py:188 - === Batch 3472 begins ===
+2024-02-24 10:46:44,797 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 10:46:44,798 - INFO - ingest_open_web_math_worker.py:196 - Split into 10407 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 489119.04it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4046.43it/s]
+2024-02-24 10:51:25,056 - INFO - ingest_open_web_math_worker.py:188 - === Batch 5411 begins ===
+2024-02-24 10:51:33,124 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1023 documents from open_web_math dataset
+2024-02-24 10:51:33,124 - INFO - ingest_open_web_math_worker.py:196 - Split into 13057 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 331438.01it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3968.86it/s]
+2024-02-24 10:57:01,269 - INFO - ingest_open_web_math_worker.py:188 - === Batch 5974 begins ===
+2024-02-24 10:57:07,430 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1023 documents from open_web_math dataset
+2024-02-24 10:57:07,431 - INFO - ingest_open_web_math_worker.py:196 - Split into 11334 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 331438.01it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4321.82it/s]
+2024-02-24 11:02:04,956 - INFO - ingest_open_web_math_worker.py:188 - === Batch 5817 begins ===
+2024-02-24 11:02:11,964 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1023 documents from open_web_math dataset
+2024-02-24 11:02:11,964 - INFO - ingest_open_web_math_worker.py:196 - Split into 11867 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 627756.76it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4622.60it/s]
+2024-02-24 11:07:19,111 - INFO - ingest_open_web_math_worker.py:188 - === Batch 5079 begins ===
+2024-02-24 11:07:25,573 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 11:07:25,573 - INFO - ingest_open_web_math_worker.py:196 - Split into 11069 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 455289.48it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4341.93it/s]
+2024-02-24 11:12:18,541 - INFO - ingest_open_web_math_worker.py:188 - === Batch 3411 begins ===
+2024-02-24 11:12:24,805 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 11:12:24,806 - INFO - ingest_open_web_math_worker.py:196 - Split into 11081 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 507991.80it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3780.78it/s]
+2024-02-24 11:17:16,773 - INFO - ingest_open_web_math_worker.py:188 - === Batch 2078 begins ===
+2024-02-24 11:17:22,804 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 11:17:22,804 - INFO - ingest_open_web_math_worker.py:196 - Split into 10977 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 623626.78it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3917.52it/s]
+2024-02-24 11:22:15,153 - INFO - ingest_open_web_math_worker.py:188 - === Batch 2762 begins ===
+2024-02-24 11:22:23,197 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 11:22:23,198 - INFO - ingest_open_web_math_worker.py:196 - Split into 13748 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 536756.91it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4546.06it/s]
+2024-02-24 11:28:07,540 - INFO - ingest_open_web_math_worker.py:188 - === Batch 473 begins ===
+2024-02-24 11:28:14,273 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 11:28:14,273 - INFO - ingest_open_web_math_worker.py:196 - Split into 11857 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 536756.91it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3822.64it/s]
+2024-02-24 11:33:24,288 - INFO - ingest_open_web_math_worker.py:188 - === Batch 4164 begins ===
+2024-02-24 11:33:31,740 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 11:33:31,741 - INFO - ingest_open_web_math_worker.py:196 - Split into 12672 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 636183.02it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3827.96it/s]
+2024-02-24 11:38:48,826 - INFO - ingest_open_web_math_worker.py:188 - === Batch 3336 begins ===
+2024-02-24 11:38:55,500 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 11:38:55,500 - INFO - ingest_open_web_math_worker.py:196 - Split into 11699 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 522553.86it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3943.85it/s]
+2024-02-24 11:43:53,441 - INFO - ingest_open_web_math_worker.py:188 - === Batch 5124 begins ===
+2024-02-24 11:44:01,182 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 11:44:01,182 - INFO - ingest_open_web_math_worker.py:196 - Split into 11510 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 181245.26it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3943.08it/s]
+2024-02-24 11:49:00,888 - INFO - ingest_open_web_math_worker.py:188 - === Batch 3745 begins ===
+2024-02-24 11:49:07,146 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 11:49:07,146 - INFO - ingest_open_web_math_worker.py:196 - Split into 10922 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 631100.34it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3946.42it/s]
+2024-02-24 11:53:55,027 - INFO - ingest_open_web_math_worker.py:188 - === Batch 2893 begins ===
+2024-02-24 11:54:01,796 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 11:54:01,796 - INFO - ingest_open_web_math_worker.py:196 - Split into 11028 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 517985.08it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3961.81it/s]
+2024-02-24 11:58:53,257 - INFO - ingest_open_web_math_worker.py:188 - === Batch 1887 begins ===
+2024-02-24 11:58:59,706 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 11:58:59,706 - INFO - ingest_open_web_math_worker.py:196 - Split into 11140 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 628589.33it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4302.03it/s]
+2024-02-24 12:03:54,408 - INFO - ingest_open_web_math_worker.py:188 - === Batch 1066 begins ===
+2024-02-24 12:04:01,084 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 12:04:01,084 - INFO - ingest_open_web_math_worker.py:196 - Split into 12003 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 621989.96it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3999.44it/s]
+2024-02-24 12:09:09,680 - INFO - ingest_open_web_math_worker.py:188 - === Batch 235 begins ===
+2024-02-24 12:09:17,424 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 12:09:17,425 - INFO - ingest_open_web_math_worker.py:196 - Split into 11903 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 633631.49it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3922.41it/s]
+2024-02-24 12:14:34,253 - INFO - ingest_open_web_math_worker.py:188 - === Batch 2812 begins ===
+2024-02-24 12:14:41,392 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 12:14:41,392 - INFO - ingest_open_web_math_worker.py:196 - Split into 11879 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 626098.22it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3891.28it/s]
+2024-02-24 12:19:52,162 - INFO - ingest_open_web_math_worker.py:188 - === Batch 4051 begins ===
+2024-02-24 12:19:59,459 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 12:19:59,459 - INFO - ingest_open_web_math_worker.py:196 - Split into 13376 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 610768.49it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3903.33it/s]
+2024-02-24 12:25:34,252 - INFO - ingest_open_web_math_worker.py:188 - === Batch 4425 begins ===
+2024-02-24 12:25:41,377 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 12:25:41,377 - INFO - ingest_open_web_math_worker.py:196 - Split into 12516 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 637895.49it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3856.08it/s]
+2024-02-24 12:31:05,002 - INFO - ingest_open_web_math_worker.py:188 - === Batch 3423 begins ===
+2024-02-24 12:31:16,669 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 12:31:16,670 - INFO - ingest_open_web_math_worker.py:196 - Split into 15263 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 433232.50it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4830.99it/s]
+2024-02-24 12:37:07,337 - INFO - ingest_open_web_math_worker.py:188 - === Batch 3720 begins ===
+2024-02-24 12:37:14,632 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 12:37:14,632 - INFO - ingest_open_web_math_worker.py:196 - Split into 13472 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 596922.36it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4100.76it/s]
+2024-02-24 12:42:43,429 - INFO - ingest_open_web_math_worker.py:188 - === Batch 3512 begins ===
+2024-02-24 12:42:49,696 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 12:42:49,696 - INFO - ingest_open_web_math_worker.py:196 - Split into 11225 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 461495.96it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3895.65it/s]
+2024-02-24 12:47:44,960 - INFO - ingest_open_web_math_worker.py:188 - === Batch 1515 begins ===
+2024-02-24 12:47:52,704 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 12:47:52,704 - INFO - ingest_open_web_math_worker.py:196 - Split into 12900 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 606858.33it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4439.07it/s]
+2024-02-24 12:53:19,002 - INFO - ingest_open_web_math_worker.py:188 - === Batch 3234 begins ===
+2024-02-24 12:53:25,501 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 12:53:25,502 - INFO - ingest_open_web_math_worker.py:196 - Split into 11030 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 399963.17it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 5320.51it/s]
+2024-02-24 12:58:16,620 - INFO - ingest_open_web_math_worker.py:188 - === Batch 4413 begins ===
+2024-02-24 12:58:23,167 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 12:58:23,167 - INFO - ingest_open_web_math_worker.py:196 - Split into 10671 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 390408.86it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3896.40it/s]
+2024-02-24 13:03:12,266 - INFO - ingest_open_web_math_worker.py:188 - === Batch 2367 begins ===
+2024-02-24 13:03:18,954 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 13:03:18,954 - INFO - ingest_open_web_math_worker.py:196 - Split into 11468 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 252507.38it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 5447.92it/s]
+2024-02-24 13:08:22,132 - INFO - ingest_open_web_math_worker.py:188 - === Batch 4569 begins ===
+2024-02-24 13:08:28,730 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 13:08:28,730 - INFO - ingest_open_web_math_worker.py:196 - Split into 11006 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 405437.43it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4470.60it/s]
+2024-02-24 13:13:16,957 - INFO - ingest_open_web_math_worker.py:188 - === Batch 1527 begins ===
+2024-02-24 13:13:23,199 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 13:13:23,199 - INFO - ingest_open_web_math_worker.py:196 - Split into 11273 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 594675.47it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3931.95it/s]
+2024-02-24 13:18:18,931 - INFO - ingest_open_web_math_worker.py:188 - === Batch 3099 begins ===
+2024-02-24 13:18:25,423 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 13:18:25,423 - INFO - ingest_open_web_math_worker.py:196 - Split into 11239 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 386903.14it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4507.84it/s]
+2024-02-24 13:23:20,259 - INFO - ingest_open_web_math_worker.py:188 - === Batch 999 begins ===
+2024-02-24 13:23:27,153 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 13:23:27,153 - INFO - ingest_open_web_math_worker.py:196 - Split into 11740 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 636183.02it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 5019.25it/s]
+2024-02-24 13:28:30,833 - INFO - ingest_open_web_math_worker.py:188 - === Batch 5200 begins ===
+2024-02-24 13:28:37,361 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 13:28:37,361 - INFO - ingest_open_web_math_worker.py:196 - Split into 10530 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 513495.51it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4568.47it/s]
+2024-02-24 13:33:18,623 - INFO - ingest_open_web_math_worker.py:188 - === Batch 3074 begins ===
+2024-02-24 13:33:25,089 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 13:33:25,089 - INFO - ingest_open_web_math_worker.py:196 - Split into 10822 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 409642.48it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4453.44it/s]
+2024-02-24 13:38:10,464 - INFO - ingest_open_web_math_worker.py:188 - === Batch 5383 begins ===
+2024-02-24 13:38:17,394 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1023 documents from open_web_math dataset
+2024-02-24 13:38:17,394 - INFO - ingest_open_web_math_worker.py:196 - Split into 12033 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 511831.91it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 4413.13it/s]
+2024-02-24 13:43:25,298 - INFO - ingest_open_web_math_worker.py:188 - === Batch 555 begins ===
+2024-02-24 13:43:32,656 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 13:43:32,656 - INFO - ingest_open_web_math_worker.py:196 - Split into 11719 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 517985.08it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3774.17it/s]
+2024-02-24 13:48:25,615 - INFO - ingest_open_web_math_worker.py:188 - === Batch 999 begins ===
+2024-02-24 13:48:31,893 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 13:48:31,893 - INFO - ingest_open_web_math_worker.py:196 - Split into 11740 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 613138.88it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 3928.93it/s]
+2024-02-24 13:53:32,979 - INFO - ingest_open_web_math_worker.py:188 - === Batch 1262 begins ===
+2024-02-24 13:53:39,794 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 13:53:39,794 - INFO - ingest_open_web_math_worker.py:196 - Split into 10960 chunks of text
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 113/113 [00:00<00:00, 624448.42it/s]
+Loading dataset shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:00<00:00, 5534.11it/s]
+2024-02-24 13:58:32,586 - INFO - ingest_open_web_math_worker.py:188 - === Batch 1717 begins ===
+2024-02-24 13:58:40,924 - INFO - ingest_open_web_math_worker.py:195 - Loaded 1024 documents from open_web_math dataset
+2024-02-24 13:58:40,924 - INFO - ingest_open_web_math_worker.py:196 - Split into 13872 chunks of text

@@ -35,6 +35,7 @@ def get_embeddings(device_type="cuda"):
         return HuggingFaceInstructEmbeddings(
             model_name=EMBEDDING_MODEL_NAME,
             model_kwargs={"device": device_type},
+            encode_kwargs={"batch_size": 256},
             embed_instruction="Represent the document for retrieval:",
             query_instruction="Represent the question for retrieving supporting documents:",
         )
