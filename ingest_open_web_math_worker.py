@@ -160,7 +160,7 @@ def main(device_type):
     # text_documents, python_documents = split_documents(documents)
     from datasets import load_dataset
     # text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=200)
-    text_splitter = RecursiveCharacterTextSplitter.from_tiktoken_encoder(chunk_size=256, chunk_overlap=32)
+    text_splitter = RecursiveCharacterTextSplitter.from_tiktoken_encoder(chunk_size=256, chunk_overlap=32, disallowed_special=())
     # python_splitter = RecursiveCharacterTextSplitter.from_language(
     #     language=Language.PYTHON, chunk_size=880, chunk_overlap=200
     # )
